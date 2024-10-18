@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 "Lily Gray" 
+=======
+James Taylor
+Cole Jabara
+>>>>>>> 36ecdf3d5dacd202756ade1e36febc96944ae5ad
