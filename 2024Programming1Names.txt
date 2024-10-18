@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 James Taylor
+=======
+Cole Jabara
+>>>>>>> Stashed changes
