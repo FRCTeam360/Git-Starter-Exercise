@@ -1,11 +1,5 @@
-<<<<<<< HEAD
 "Lily Gray" 
-=======
 James Taylor
 Cole Jabara
-<<<<<<< Updated upstream
->>>>>>> 36ecdf3d5dacd202756ade1e36febc96944ae5ad
-=======
-Roxy Popa
+Roxy
 
->>>>>>> Stashed changes
