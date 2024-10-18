@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 kai comer 
 James Taylor
 Cole Jabara
+=======
+<<<<<<< HEAD
+"Lily Gray" 
+=======
+James Taylor
+Cole Jabara
+>>>>>>> 36ecdf3d5dacd202756ade1e36febc96944ae5ad
+>>>>>>> 424cce7941947e81d952f2cb5c6cfc986a144150
