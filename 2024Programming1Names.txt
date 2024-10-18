@@ -1,1 +1,9 @@
+<<<<<<< HEAD
+Bryce Ophwette
+=======
+"Lily Gray" 
 James Taylor
+Cole Jabara
+Roxy
+
+>>>>>>> e1f300b627a247563d424dfbeebcdd0f03c7acae
